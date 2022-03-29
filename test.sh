@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod +x ./gradlew
-./gradlew clean test
+chmod +x ./mvnw
+./mvnw clean test
